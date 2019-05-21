@@ -24,5 +24,4 @@ npm install 或 yarn(推荐)
 
 npm run dev
 
-<img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/shop_cart.png" width="365" height="619"/>
-https://github.com/banana618859/imageHome/blob/master/images/index0521.png
+<img src="https://github.com/banana618859/imageHome/blob/master/images/index0521.png" width="365" height="619"/>
