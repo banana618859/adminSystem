@@ -27,7 +27,6 @@ npm run dev
 
 
 ## 效果图1-登录页
-![image](http://pqniye9hc.bkt.clouddn.com/login0521.png)
 [![](http://pqniye9hc.bkt.clouddn.com/login0521.png)](http://pqniye9hc.bkt.clouddn.com)
 
 ## 效果图2-内部页面
