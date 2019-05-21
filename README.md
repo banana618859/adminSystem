@@ -24,4 +24,11 @@ npm install 或 yarn(推荐)
 
 npm run dev
 
+```
 
+
+## 效果图1-登录页
+<img src="https://github.com/banana618859/adminSystem/blob/master/screenshots/login0521.png" width="700" height="500" />
+
+## 效果图2-内部页
+<img src="https://github.com/banana618859/adminSystem/blob/master/screenshots/index0521.png" width="1300" height="520" />
