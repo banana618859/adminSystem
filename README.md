@@ -16,7 +16,7 @@ vue2 + vuex + vue-router + axios + webpack + ES6/7
 #### 注意：由于涉及大量的 ES6/7 等新属性，node 需要 6.0 以上版本
 
 ```
-git clone https://github.com/bailicangdu/vue2-elm.git  
+git clone https://github.com/banana618859/adminSystem.git
 
 cd adminSystem
 
