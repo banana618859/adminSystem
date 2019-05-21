@@ -24,5 +24,4 @@ npm install 或 yarn(推荐)
 
 npm run dev
 
-![my](https://github.com/banana618859/adminSystem/blob/master/screenshots/index0521.png)
-<img src="https://github.com/banana618859/adminSystem/blob/master/screenshots/index0521.png" width="365" height="619"/>
+
