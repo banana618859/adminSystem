@@ -27,7 +27,7 @@ npm run dev
 
 
 ## 效果图1-登录页
-
+![login](https://github.com/banana618859/imageHome/blob/master/login0521.png)
 <img src="https://github.com/banana618859/imageHome/blob/master/login0521.png" width="700" height="500"/>
 
 ## 效果图2-内部页面
