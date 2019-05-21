@@ -24,4 +24,3 @@ npm install 或 yarn(推荐)
 
 npm run dev
 
-<img src="https://github.com/banana618859/imageHome/blob/master/images/index0521.png" width="365" height="619"/>
