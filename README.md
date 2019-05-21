@@ -28,6 +28,7 @@ npm run dev
 
 ## 效果图1-登录页
 ![image](http://pqniye9hc.bkt.clouddn.com/login0521.png)
+[![](http://pqniye9hc.bkt.clouddn.com/login0521.png)](http://pqniye9hc.bkt.clouddn.com)
 
 ## 效果图2-内部页面
 ![image](<img src="http://pqniye9hc.bkt.clouddn.com/index0521.png" width="1380" height="700"/>)
