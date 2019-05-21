@@ -27,6 +27,7 @@ npm run dev
 
 
 ## 效果图1-登录页
+![ad](https://rcyan.github.io/WeChat-applet/images/ad1.jpg)
 [![](http://pqniye9hc.bkt.clouddn.com/login0521.png)](http://pqniye9hc.bkt.clouddn.com)
 
 ## 效果图2-内部页面
